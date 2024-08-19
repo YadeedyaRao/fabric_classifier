@@ -2,7 +2,6 @@ Pillow
 torch
 tensorflow
 numpy
-matplotlib.pyplot
 cv2
 ultralytics
 tensorflow.keras.models
