@@ -1,6 +1,5 @@
 Pillow
 torch
-random
 tensorflow
 numpy
 matplotlib.pyplot
