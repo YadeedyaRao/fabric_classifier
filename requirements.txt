@@ -3,6 +3,6 @@ torch
 tensorflow
 numpy
 matplotlib
-opencv-python
+opencv-python-headless
 ultralytics
 setuptools
