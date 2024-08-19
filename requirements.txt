@@ -1,4 +1,4 @@
-PIL
+Pillow
 torch
 random
 tensorflow
