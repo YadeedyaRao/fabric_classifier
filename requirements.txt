@@ -1,0 +1,9 @@
+PIL
+torch
+random
+tensorflow
+numpy
+matplotlib.pyplot
+cv2
+ultralytics
+tensorflow.keras.models
